@@ -1,3 +1,3 @@
-#Recipes from my Nain
+# Recipes from my Nain
 
--[guacamole](./guacamole.mg)
+-[guacamole](./guacamole.md)
